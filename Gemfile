@@ -21,5 +21,8 @@ gem "wdm", "~> 0.1.1", :install_if => Gem.win_platform?
 # Jekyll <= 4.2.0 compatibility with Ruby 3.0
 gem "webrick", "~> 1.7"
 
+#<<<<<<< HEAD
 # Jekyll = Add Plugins
 gem 'jekyll-admin', group: :jekyll_plugins
+#=======
+#>>>>>>> b9527d038311b6c7bcc740328fff1b4cbb7bafb9
